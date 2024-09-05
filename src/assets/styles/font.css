@@ -1,0 +1,8 @@
+@font-face {
+  font-family: "Rowdies";
+  src: url("/fonts/Rowdies-Regular.ttf") format("truetype");
+}
+
+.rowdies-font {
+  font-family: "Rowdies", sans-serif;
+}
