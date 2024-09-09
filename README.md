@@ -1,8 +1,32 @@
-# React + Vite
+# Memory Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📜 Descripción
+Memory Game es un juego de cartas en el que tenés que encontrar pares iguales. El juego está desarrollado con React y ofrece una experiencia divertida para mejorar tu memoria.
 
-Currently, two official plugins are available:
+![image](https://github.com/user-attachments/assets/e6f7ac8e-c255-4dc5-b7eb-5492603e9ec3)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Instalación
+
+Seguí estos pasos para instalar y ejecutar el juego en tu máquina local:
+
+1. Cloná el repositorio:
+```bash
+git clone https://github.com/mabertuccio/memory-game.git
+```
+2. Navegá al directorio del proyecto:
+```bash
+cd memory-game
+```
+3. Instalá las dependencias:
+```bash
+npm install o yarn install
+```
+4. Iniciá el servidor de desarrollo:
+```bash
+npm start
+yarn start
+```
+
+## 🎮 Uso
+
+Una vez que el servidor de desarrollo esté en ejecución, abrí tu navegador y navegá a https://localhost:3000. Vas a ver la interfaz del juego donde podrás empezar a jugar. ¡Divertite!
